@@ -21,7 +21,7 @@ import datetime
 
 current_year = datetime.datetime.now().year
 
-project = 'lics-proc-test'
+project = 'lics-doc-test'
 copyright = '{0}'.format(current_year)
 author = 'author'
 email = 'email'
