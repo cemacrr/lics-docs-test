@@ -3,6 +3,8 @@ on:
   push:
     branches:
     - main 
+  repository_dispatch:
+    types: [pages]
 jobs:
   build:
     runs-on: ubuntu-latest
