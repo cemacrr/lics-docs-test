@@ -8,3 +8,5 @@ lics-docs-test
   Home <self>
   notes
   lics-proc-test/index
+
+Home page text ...
