@@ -71,6 +71,6 @@ latex_elements = {
 
 # Mock imports for autodoc building:
 autodoc_mock_imports = [
-  'xarray', 'rioxarray', 'osgeo', 'scipy', 'astropy', 'sklearn', 'matplotlib',
-  'cv2'
+    'astropy', 'cv2', 'matplotlib', 'numpy', 'osgeo', 'pandas', 'rioxarray',
+    'scipy', 'sklearn', 'xarray'
 ]
