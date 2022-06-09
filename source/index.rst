@@ -8,5 +8,6 @@ lics-docs-test
   Home <self>
   notes
   lics-proc-test/index
+  licsar_proc/apidoc
 
 Home page text ...
